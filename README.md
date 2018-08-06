@@ -13,4 +13,9 @@ Usage:
 
 Download a schedule file and run:
 
-    ./convert.py schedule.en.xml
+    ./convert.py example_schedule.xml
+```AssertionError: Term http://events.ccc.de/camp/2011/wiki/Call_for_Space_Program must be an rdflib term
+```
+
+**Output**
+Visualization with GATE Ontology Viewer
