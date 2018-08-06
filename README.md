@@ -20,3 +20,5 @@ Usage:
 **Output**
 ------
 Visualization with GATE Ontology Viewer
+----
+<img src="https://github.com/susierao/pentabarf-rdf/blob/susierao-patch-1/gate_vis.PNG" alt="vis"/>
