@@ -11,11 +11,12 @@ It doesn't contain all properties I use... I'll probably extend it later.
 Usage:
 ------
 
-Download a schedule file and run:
+- Download a schedule file and run:
 
     ./convert.py example_schedule.xml
-```AssertionError: Term http://events.ccc.de/camp/2011/wiki/Call_for_Space_Program must be an rdflib term
-```
+- Error message of the code: 
+```AssertionError: Term http://events.ccc.de/camp/2011/wiki/Call_for_Space_Program must be an rdflib term```
 
 **Output**
+------
 Visualization with GATE Ontology Viewer
